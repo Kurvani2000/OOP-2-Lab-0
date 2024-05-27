@@ -1,0 +1,7 @@
+C:\Users\kurva\OneDrive\Desktop\Visual Studio 2022\BasicsOfC#\bin\Debug\BasicsOfC#.exe.config
+C:\Users\kurva\OneDrive\Desktop\Visual Studio 2022\BasicsOfC#\bin\Debug\BasicsOfC#.exe
+C:\Users\kurva\OneDrive\Desktop\Visual Studio 2022\BasicsOfC#\bin\Debug\BasicsOfC#.pdb
+C:\Users\kurva\OneDrive\Desktop\Visual Studio 2022\BasicsOfC#\obj\Debug\BasicsOfC#.csproj.AssemblyReference.cache
+C:\Users\kurva\OneDrive\Desktop\Visual Studio 2022\BasicsOfC#\obj\Debug\BasicsOfC#.csproj.CoreCompileInputs.cache
+C:\Users\kurva\OneDrive\Desktop\Visual Studio 2022\BasicsOfC#\obj\Debug\BasicsOfC#.exe
+C:\Users\kurva\OneDrive\Desktop\Visual Studio 2022\BasicsOfC#\obj\Debug\BasicsOfC#.pdb
